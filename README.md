@@ -1,6 +1,6 @@
 # Sentiment Analysis based on Naive Bayes & Adaboost
 
-This topic aims at improving Naives Bayes algorithm by using feature-correlation-based weighting and improving the performance of Bayes classifier by using Adaboost.
+This topic aims at improving Naives Bayes algorithm by using feature-correlation-based weighting(including involving weighting factor and TF-IDF algorithm), and improving the performance of Bayes classifier by using Adaboost.
 
 ## Getting Started
 
